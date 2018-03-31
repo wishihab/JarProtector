@@ -12,4 +12,9 @@ Edited by /**wishihab**/ 2017
  3/35
  
  
+ 
+ 
+ # Need more Encrypter ? check https://github.com/wishihab/WiDefend
+ 
+ 
 
