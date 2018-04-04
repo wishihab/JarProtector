@@ -1,8 +1,8 @@
 # jar-protector
 Jar Protector, Encryption or Crypter for java jar RAT Trojan and any jar file
 
-Original @author /**Burn3diC3**/
-Edited by /**wishihab**/ 2017
+- Original @author **Burn3diC3**
+- Edited by **wishihab** 2017
 
  
  - Original File detected by antivirus
