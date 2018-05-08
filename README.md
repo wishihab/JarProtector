@@ -12,9 +12,7 @@ Jar Protector, Encryption or Crypter for java jar RAT Trojan and any jar file
  3/35
  
  
- 
- 
- # Need more Encrypter ? check https://github.com/wishihab/WiDefend
+ Looking for a simple or example encryption? Let's see [WeDefend](https://github.com/wishihab/WeDefend)
  
  
 
